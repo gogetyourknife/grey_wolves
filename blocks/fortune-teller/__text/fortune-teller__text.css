@@ -1,0 +1,15 @@
+.fortune-teller__text {
+  display: block;
+	margin: auto;
+  margin-top: 15px;
+  background: #f9ebdf;
+  width: 300px;
+	min-height: 60px;
+	height: 100%;
+	overflow: hidden;
+	border-radius: 4px;
+	font-size: 18px;
+	font-weight: 400;
+  transition: .6s;
+  padding: 12px 40px;
+}
