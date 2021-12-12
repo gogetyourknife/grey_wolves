@@ -22,8 +22,9 @@
 @import url(../blocks/carousel/carousel.css);
 @import url(../blocks/carousel/__slideshow-container/carousel__slideshow-container.css);
 @import url(../blocks/carousel/__slides/carousel__slides.css);
+@import url(../blocks/cards/_carousel/cards_carousel.css);
 @import url(../blocks/carousel/__slides/_fade/carousel__slides_fade.css);
 @import url(../blocks/carousel/__slides/_next/carousel__slides_next.css);
 @import url(../blocks/carousel/__slides/_prev/carousel__slides_prev.css);
 @import url(../blocks/carousel/__slides/_dot/carousel__slides_dot.css);
-@import url(../blocks/cards/__title/_carousel/cards__title_carousel.css);
+@import url(../blocks/cards/_carousel/cards_carousel.css);
