@@ -1,0 +1,19 @@
+.carousel__slides_next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  user-select: none;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.carousel__slides_next:hover {
+  background-color: #cd7e59;
+}

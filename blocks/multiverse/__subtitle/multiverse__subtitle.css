@@ -1,0 +1,13 @@
+.multiverse__subtitle {
+  margin: 0;
+  padding: 0;
+  z-index: 2;
+  position: absolute;
+  bottom: 40px;
+  left: 50px;
+  max-width: 370px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.15;
+  color: #fff;
+}
